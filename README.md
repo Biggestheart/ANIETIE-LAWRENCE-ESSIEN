@@ -20,13 +20,9 @@ Community Management | Team work | Strategic Growth Planning | Content Writing |
 
 ### Social Connect
 
- <p>
-Build outline capturing system 
-</p>
  
 ## Project showcase
 
-==================
 ## Documentation
 
 ## Improvement 
