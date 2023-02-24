@@ -1,8 +1,7 @@
-# Software Engineer (ALX) 🔥 Operation Reseach (B. tech)
-### Growth mindset👋  :: Grit 🔥
+### Growth mindset  :: 
 
 ## About Me 
-Welcome to my GitHub! If code was a dessert, I'd be the baker who thinks he's a chef. I code with the elegance of a giraffe on ice, but with the determination of a honey badger on a mission. Don't let my coding skills fool you, though. My ability to make puns and crack jokes is unmatched. I’m experienced, impact-driven Software Engineer, Solidity Developer with years in my sleeves, in design architect and planning software application, Dapp and smart Contract integration, with a knack for aethestic design and approach,  I’m eager 🔥 to join a startup with a strong mission in building a product and service that will revolutionize the world.
+Welcome to my GitHub! If code was a dessert, I'd be the baker who thinks he's a chef. I code with the elegance of a giraffe on ice, but with the determination of a honey badger on a mission. Don't let my coding skills fool you, though. My ability to make puns and crack jokes is unmatched. I’m experienced, impact-driven Software Engineer, Solidity Developer with years in my sleeves, in design architect and planning software application, Dapp and smart Contract integration, with a knack for aethestic design and approach, I’m eager to join a startup with a strong mission in building a product and service that will revolutionize the world.
 
 ### Skills.
 <p align="center">
@@ -21,14 +20,6 @@ Build outline capturing system
 </p>
  
 ## Project showcase
-
-## Documentation
-
-
-## Challenges 🔥
-
-## Improvement 
-
 
 
 ### Hi there 👋
