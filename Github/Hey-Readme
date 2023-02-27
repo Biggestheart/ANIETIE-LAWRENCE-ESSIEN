@@ -1,0 +1,21 @@
+name: Hay Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: HeyReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/Hey-readme@master
+        with:
+          HEYTIME_API_KEY: ${{ secrets.HEYTIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
