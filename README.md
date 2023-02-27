@@ -87,7 +87,7 @@
     <h2><img  width="35"
             src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Stats</h2>
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biggesthearttheme=github_dark&show_icons=true" />
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biggestheart@theme=github_dark&show_icons=true" />
 
 
 
@@ -106,17 +106,4 @@
 
 
 
-Community Management | Team work | Strategic Growth Planning | Content Writing | Research 
---------------------- | -------------- | ------------------------ | -------------
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biggestheart)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- GitHub Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=Biggestheart)
-
-<!-- SNS Links -->
-### SNS Links
-[<img align="left" alt="kojoswic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[twitter]: https://twitter.com/AnietieLEssien
